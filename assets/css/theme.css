@@ -253,7 +253,7 @@ span.post-name,span.post-date,span.author-meta {
 	display:inline-block;
 }
 span.post-date,span.post-read {
-	color:rgba(0,0,0,.44);
+	color:rgba(255,255,255,.09);
 }
 
 span.post-read-more a {
