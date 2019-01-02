@@ -1,6 +1,6 @@
 ---
 layout: page
-title: VISIÓN KLABS
+title: CURSOS KLABS
 comments: true
 ---
 
