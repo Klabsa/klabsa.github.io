@@ -1,6 +1,6 @@
 ---
 layout: page
-title: VISÍON KLABS
+title: VISIÓN KLABS
 comments: true
 ---
 
