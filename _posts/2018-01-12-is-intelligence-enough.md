@@ -5,5 +5,4 @@ author:
 categories: [ Jekyll, tutorial ]
 image: assets/images/5.jpg
 ---
-
-Soluciones Industriales
+Ofrecemos profesionales y experiencia, aplicamos regulaciones enfocadas a la <a href="#">Seguridad Industrial y Salud Ocupacional</a>, podemos ayudarte.
