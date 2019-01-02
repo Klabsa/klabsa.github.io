@@ -8,9 +8,3 @@ featured: true
 ---
 
 Somos Expertos en Normas y Estándares de Inocuidad y Calidad Nacional e Internacional, crear <a href="#">Sistemas de Gestión es una de nuestras especialidades.</a>  Preparamos tu empresa para auditorías de 1o. 2o. y 3o. parte, podemos ayudarte.
-
-
-
-
-
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/aeqWCTYT-qk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
