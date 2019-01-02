@@ -36,7 +36,10 @@ post_class: post-template
                 <!-- End Categories -->
                 
                 <!-- Post Title -->
-				<h1 class="posttitle" href="{{absolute_url}}"> {{ page.title }}</h1> 
+				<h1 class="posttitle"><a href="{{ post.url | absolute_url }}">{{ page.title }}</a></h1>
+				
+				
+				
                 
 			</div>
 
