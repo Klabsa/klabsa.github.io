@@ -1,5 +1,5 @@
 ---
 layout: page
-title: KLABS INFOout
+title: KLABS INFO
 comments: true
 ---
