@@ -4,7 +4,7 @@ title: SOPORTES KLABS
 comments: true
 ---
 
-![walking]({{ site.baseurl }}/assets/images/klab-soporte.jpg)
+![walking]({{ site.baseurl }}/assets/images/klabs-soporte.jpg)
 
 
 Auditorías virtuales con servicios de REMOTE-CCTV.
