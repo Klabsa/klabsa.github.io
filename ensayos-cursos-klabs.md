@@ -6,9 +6,10 @@ comments: true
 
 
 
+![walking]({{ site.baseurl }}/assets/images/klabs-ensayos-cursos.jpg)
 
 
-Listado de cursos que puede ofrecer Klabsa.com 
+## Listado de cursos que puede ofrecer Klabsa.com 
 
 Buenas Prácticas de Manufactura en la Industria de alimentos
 Buenas Prácticas de Manufactura en la Industria Farmacéutica
