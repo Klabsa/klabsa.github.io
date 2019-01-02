@@ -5,7 +5,7 @@ author:
 categories: [ Jekyll, tutorial ]
 image: assets/images/3.jpg
 ---
-Calibramos tu equipo.
+Calibramos equipo industrial.
 
 <a href="#">Ofrecemos servicio en análisis de datos físico-químicos y microbiológicos.</a>
 
