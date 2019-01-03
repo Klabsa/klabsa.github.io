@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-right-sidebar
 title:  "Consultoría Y Capacitación - Cursos de capacitación y Consultores en sistemas de Gestión"
 author: 
 categories: [ Jekyll, tutorial ]
