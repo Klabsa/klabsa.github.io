@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-right-sidebar
 title:  "Auditoria de Sistemas de Gestion e Inspecciones Virtuales "
 author: 
 categories: [ Jekyll, tutorial ]
