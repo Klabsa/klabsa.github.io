@@ -7,7 +7,7 @@ comments: true
 ![walking]({{ site.baseurl }}/assets/images/klabs-soporte.jpg)
 
 
-Auditorías virtuales con servicios de REMOTE-CCTV.
+-Auditorías virtuales con servicios de REMOTE-CCTV.
 
 -Documentación y asistencia técnica.
 
