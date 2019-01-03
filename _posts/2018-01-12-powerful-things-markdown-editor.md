@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-right-sidebar
 title:  "Auditorías De Conformidad, Usted si puede cumplir con Normas ó Estándares Nacionales e Internacionales "
 author: 
 categories: [ Jekyll, tutorial ]
