@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-right-sidebar
 title:  "Food Safety - Inocuidad Alimentaria Una Inversión de Futuro"
 categories: [ Jekyll, tutorial ]
 image: assets/images/1.jpg
