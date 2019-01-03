@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-right-sidebar
 title:  "Ingenieros en Soluciones Industriales / Análisis y Administración de Riesgos"
 author: 
 categories: [ Jekyll, tutorial ]
