@@ -4,6 +4,7 @@ title:  "Auditoria de Sistemas de Gestion e Inspecciones Virtuales "
 author: 
 categories: [ Jekyll, tutorial ]
 image: assets/images/6.jpg
+featured: false
 ---
 Apunta hacia la gestión de asesoramiento virtual, optimizando tiempo y aprovechando los recursos.
 
