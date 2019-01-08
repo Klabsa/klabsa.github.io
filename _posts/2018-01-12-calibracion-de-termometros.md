@@ -4,6 +4,7 @@ title:  "Servicio de Calibración de Termómetros y Servicio de Análisis de Dat
 author: 
 categories: [ Jekyll, tutorial ]
 image: assets/images/3.jpg
+featured: false
 ---
 Calibramos equipo industrial.
 
