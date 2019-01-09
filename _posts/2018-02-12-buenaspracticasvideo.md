@@ -6,7 +6,9 @@ image: assets/images/1.jpg
 
 ---
 BUENAS PRACTICAS DE MANUFACTURA:ALIMENTO SEGURO EN SUS MANOS
-https://youtu.be/d_m4T2h9XiY
-
-
-<a href="#">videoFOOD SAFETY- KLabs ofrece soluciones</a> para el diseño y creación de un plan para la defensa alimentaria cumpliendo con los requisitos de la norma FSSC 22000 versión 4.1, podemos ayudarte.
+        <div>
+             <h5><span>Buenas Practicas</span></h5>
+           <a href=</a>
+        <iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/d_m4T2h9XiY?rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+        
+        </div>
