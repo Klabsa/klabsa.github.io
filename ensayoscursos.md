@@ -95,11 +95,11 @@ Acciones Correctivas y Acciones de Mejora para Sistemas de Gestión
 
             {% for post in site.posts %}
 
-                {% unless post.featured == true or post.featured == false %}
+                {% if post.type == curso %}
 
                     {% include featuredbox.html %}
 
-                {% endunless %}
+                {% endif %}
 
             {% endfor %}
 
