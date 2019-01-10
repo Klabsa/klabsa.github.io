@@ -80,29 +80,3 @@ Interpretación de la Norma ISO 9001 versión 2015
 Interpretación de la Norma ISO 17025 versión 2017
 
 Acciones Correctivas y Acciones de Mejora para Sistemas de Gestión
-
-
-
-<!-- Featured
-        ================================================== -->
-        <section class="featured-posts">
-
-            <div class="section-title">
-                <h2><span>VIDEOS DE ENTRENAMIENTO Y EXPERIENCIA </span></h2>
-            </div>
-
-            <div class="row listfeaturedtag">
-
-            {% for post in site.posts %}
-
-                {% if post.type == curso %}
-
-                    {% include featuredbox.html %}
-
-                {% endif %}
-
-            {% endfor %}
-
-            </div>
-
-
