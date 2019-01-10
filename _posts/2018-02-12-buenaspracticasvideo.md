@@ -2,7 +2,7 @@
 layout: post-right-sidebar
 title:  "BUENAS PRACTICAS DE MANUFACTURA:ALIMENTO SEGURO EN SUS MANOS"
 categories: [ Jekyll, tutorial ]
-image:
+image: assets/images/1.jpg
 
 ---
 BUENAS PRACTICAS DE MANUFACTURA:ALIMENTO SEGURO EN SUS MANOS
