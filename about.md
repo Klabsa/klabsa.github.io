@@ -1,6 +1,6 @@
 ---
 layout: page
-title: KLABS INFO
+title: KLABS INFO - TEL. 502-4118-8853
 comments: true
 ---
 
